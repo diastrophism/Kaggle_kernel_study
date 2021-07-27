@@ -1,7 +1,6 @@
 # Kaggle_kernel_study
 
 ### eda-to-prediction-dietanic-gukcheol
-<br>
 
 #### Reference
 EDA To Prediction(DieTanic) https://www.kaggle.com/ash316/eda-to-prediction-dietanic <br>
